@@ -48,31 +48,6 @@ namespace ParticipationRoulette
             students.Add("NUNO Pereira");
             students.Add("DANIEL Nogueira");
             students.Add("Pedro MARQUES");
-            students.Add("BRUNO Moreira");
-            students.Add("PEDRO MONTEIRO da Rocha");
-            students.Add("João Costa");
-            students.Add("LUÍS Moreira");
-            students.Add("BRUNO LOPES");
-            students.Add("MATHEUS Silva");
-            students.Add("CRISTIANO Loução");
-            students.Add("DIOGO SABINO");
-            students.Add("Gonçalo Freitas");
-            students.Add("BRUNO MAGALHÃES");
-            students.Add("GONÇALO PEREIRA");
-            students.Add("NUNO FERRAZ");
-            students.Add("DIOGO SILVA");
-            students.Add("SIMONE Santos");
-            students.Add("RAFAEL Silva");
-            students.Add("PEDRO MARTINS");
-            students.Add("PEDRO NEVES");
-            students.Add("TIAGO Pinto");
-            students.Add("GUSTAVO Ribeiro");
-            students.Add("JOÃO Barros");
-            students.Add("PEDRO COSTA");
-            students.Add("MARCOS Ribeiro");
-            students.Add("LEANDRO Luz");
-            students.Add("FRANCISCO DIAS");
-            students.Add("LEONARDO Andrade");
 
             //Get Random Value to find student
             //Este é outro comentário que me tinha esquecido. 
