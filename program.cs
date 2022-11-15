@@ -140,8 +140,8 @@ namespace ParticipationRoulette
                 }
                 teams.Add(team);
             }
-
-            for(int i=0;i<teams.Count;i++)
+            
+            for(int i=0;i<teams.Count;i++)//This for cycle will shows the name of the members of the team
             {
                 var team = teams[i];
                 var groupNr = i+1;
