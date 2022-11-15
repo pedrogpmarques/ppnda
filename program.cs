@@ -116,6 +116,9 @@ namespace ParticipationRoulette
                 teams.Add(team);
             }
 
+            /* função Random */
+            //Representa um gerador de número pseudoaleatório, que é um algoritmo que produz uma sequência de números que atendem a certos requisitos estatísticos de aleatoriedade.
+
             for(int i=0;i<teams.Count;i++)
             {
                 var team = teams[i];
