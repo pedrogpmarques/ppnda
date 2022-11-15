@@ -25,7 +25,7 @@ namespace ParticipationRoulette
                     StudentToAnswer();
                     return true;
                 case "2":
-                    GroupsComposition();
+                    ListaAlunos();
                     return true;
                 case "3":
                     return false;
@@ -84,7 +84,7 @@ namespace ParticipationRoulette
             Console.ReadLine();
         }
  
-        private static void GroupsComposition()
+        private static void ListaAlunos()
         {
             var students = new List<string>(){};
             students.Add("AFONSO Almeida");
